@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("Streamlit ㅇ마법 교실 🔮")
+st.title("Streamlit 마법 교실 🔮")
 st.subheader("춘천고등학교")
 st.markdown("---") # 구분선
 
